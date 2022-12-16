@@ -1,0 +1,461 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-serif;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    background:#ffff;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    
+    height: 70px;
+    
+
+}
+.logo1{
+    margin-left: 161px;
+    margin-top: 26px;
+    
+}
+.left{
+    
+    height: 70px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: -75px;
+    cursor: pointer;
+    
+    
+    
+    
+}
+.left li{
+    display: inline-block;
+    text-align: center;
+    margin-top: 29px;
+    padding-left: 20px;
+    margin-left: 30px;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-serif;
+    color: #1d1e20; 
+}
+.left li a{
+    text-decoration: none;
+    color: #1d1e20;
+    text-align: center;
+}
+
+.section1{
+width: 100%;
+max-height: 700px;
+}
+.textabove{
+    position: absolute;
+    bottom: 280px;
+    left: 57px;
+    font-weight: 500;
+    font-size: 4.1rem;
+    line-height: 3.1rem;
+    color: aliceblue;
+    font-family:NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    cursor: pointer;
+}
+.one{
+    margin-left: 308px;
+}
+.small{
+    font-size: 24px;
+    font-weight: 300;
+    margin-left: 312px;
+}
+.buttn{
+    margin-left: 312px;
+    padding: 16px 20px 10px;
+    min-width: 186px;
+    border-radius: 3px;
+    border: solid 1px #0065ed;
+    background-color: #0065ed;
+    font-size: 13px;
+    color: #ffff;
+    font-weight: normal;
+    line-height: 1.54;
+    cursor: pointer;
+    
+}
+.section1{
+    height: 800px;
+    width: 100%;
+    background-color:#ffff;
+}
+.pic3{
+    margin-left: 190px;
+    margin-right: 12px;
+    margin-top: -56px;
+    background: linear-gradient(90deg,rgba(0,17,53,0.6) 50%,rgba(0,17,53,0) 100%);
+    color: #6e6e6e;
+}
+
+.textabove2{
+    position: relative;
+    bottom: 374px;
+    left: 207px;
+    font-weight: 500;
+    font-size: 4.1rem;
+    line-height: 3.1rem;
+    color: aliceblue;
+    font-family:NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    width: 846px;
+}
+.small2{
+    font-size: 24px;
+    font-weight: 300;
+    margin-left: 6px;
+    margin-top: -26px;
+}
+.buttn2{
+    margin-left: 0px;
+    padding: 16px 20px 10px;
+    min-width: 186px;
+    border-radius: 3px;
+    border: solid 1px #0065ed;
+    background-color: #0065ed;
+    font-size: 13px;
+    color: #ffff;
+    font-weight: normal;
+    line-height: 1.54;
+    cursor: pointer;
+}
+.section2{
+    width: 100%;
+    height: 500px;
+    background-color: #ffff;
+}
+.leftside{
+    width: 50%;
+    float: left;
+
+
+}
+.rightside{
+    width: 50%;
+    float: left;
+}
+#placing{
+    margin-left: 190px;
+    font-size: 24px;
+    color: #001135;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+    cursor: pointer;
+}
+.image4{
+    width: 500px;
+    margin-left: 182px;
+}
+#placing1{
+    margin-left: 80px;
+    font-size: 24px;
+        color: #001135;
+        font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+        cursor: pointer;
+}
+.image5{
+    width: 500px;
+    margin-top: 27px;
+}
+#name3{
+    margin-left: 184px;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+} 
+#name4{
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+    margin-left: 0px;
+}
+#name5{
+    margin-left: 190px;
+    font-size: 24px;
+    color: #001135;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+}
+.section3{
+width: 100%;
+height: 500px;
+background-color: #ffff;
+}
+.leftside2{
+    width: 50%;
+    float: left;
+
+}
+.rightside2{
+    width: 50%;
+    float: left;
+}
+#placing2{
+    font-size: 24px;
+        color: #001135;
+        font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+        margin-left: 190px;
+        cursor: pointer;
+}
+.image6{
+    margin-left: 182px;
+}
+#name5{
+    font-size: 24px;
+    color: #001135;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+    font-size: 16px;
+}
+#placing3{
+    font-size: 24px;
+    color: #001135;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+    cursor: pointer;
+
+}
+.image7{
+    margin-top: 30px;
+}
+#name6{
+    font-size: 24px;
+    color: #001135;
+    font-family:NokiaPureHeadline, Arial, Helvetica, sans-seri;
+    font-size: 16px;
+}
+.section4{
+    height: 746px;
+    width: 100%;
+}
+
+.textabove3{
+    position: relative;
+    bottom: 374px;
+    left: 207px;
+    height: 745px;
+    width: 905px;
+    font-weight: 500;
+    font-size: 4.1rem;
+    line-height: 3.1rem;
+    color: aliceblue;
+    font-family:NokiaPureHeadline,Arial,Helvetica,sans-serif;}
+.buttn3{
+    margin-left: -60px;
+    margin-top: 0px;
+    padding: 148px 230px 100px ;
+    border-radius: 3px;
+    border: solid 1px #0065ed;
+    background-color: #0065ed;
+    font-size: 13px;
+    color: #ffff;
+    font-weight: normal;
+    line-height: 1.54;
+}
+.image8{
+    height: 746px;
+    width: 100%;
+}
+.textabove3{
+    background-color: #0c53d3;
+    height: 433px;
+    width: 745px;
+    margin-top: -63px;
+    margin-left: -73px;
+}
+.buttn4{
+    height: 100%;
+    width: 100%;
+    background-color:#000f35, opacity 35.0%;
+    color: #2965ED;;
+    border: 0cm;
+
+}
+.texts{
+    font-size: 56px;
+    line-height: 60px;
+    text-align: left;
+    color:white ;
+    font-family:NokiaPureHeadline,Arial,Helvetica,sans-serif;
+    margin-left: 80px;
+    letter-spacing: 1px;
+    letter-spacing: 0px;
+    margin-bottom: 70px;
+    padding-top: 70px;
+
+}
+.textabove4{
+    background-color: aqua;
+    height: 50px;
+    width: 180px;
+    background-color: rgb(71, 195, 52);
+    margin-top: -49px;
+    margin-left: -30px;
+}
+
+
+.buttn5{
+    margin-left: 82px;
+    padding: 16px 20px 10px;
+    min-width: 186px;
+    border-radius: 3px;
+    border: 0cm;
+    background-color: #ffff;
+    font-size: 13px;
+    color: #0065ed;
+    font-weight: normal;
+    line-height: 1.54;
+    cursor: pointer;
+}
+
+.section5{
+    width: 100%;
+    height: 200px;
+    
+}
+.section6{
+    width: 100%;
+    height: 200px;
+}
+.firstside{
+    
+    background-color: #ffff;
+    height: 450px;
+    width: 451px;
+    float: left;
+
+}
+.secondside{
+    
+    background-color:#ffff;
+    height: 450px;
+    float: left;
+    width: 434px;
+
+}
+.thirdside{
+    background-color:#ffff;
+    height: 450px;
+    float: left;
+    width: 434px;
+}
+.fourth{
+    height: 623px;
+    background-color: red;
+
+}
+.image9{
+    margin-left: 131px;
+    margin-top: 16px;
+}
+.image10{
+    margin-top: 18px;
+    margin-left: 62px;
+}
+.writelast{
+    font-size: 24px;
+    margin-left: 133px;
+    margin-top: 56px; 
+    cursor: pointer;
+    
+}
+.write2{
+    font-size: 24px;
+    margin-top: 56px; 
+    margin-left: 62px;
+    cursor: pointer;
+
+}
+.write3{
+    font-size: 24px;
+    margin-top: 56px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+.image11{
+    margin-top: 18px;
+}
+
+
+.footer1{
+    width: 100%;
+    height: 700px;
+
+
+}
+.footer2{
+    width: 100%;
+    height: 261px;
+    background-color: #001135;
+}
+.footerbox{
+    width: 1146px;
+    height: 692px;
+    margin: 131px;
+    
+    
+}
+.footerbox1{
+    height: 112px;
+    width:1146px;
+    
+
+}
+.image12{
+  margin-top: 93px;
+}
+.footerbox2{
+    display: flex;
+    height: 165px;
+    width: 1146px;
+    margin-top: 33px;
+   
+    font-size: 13px;
+    color: #ffff;
+    justify-content: space-between;
+    
+    
+}
+.lastbuttn{
+    width: 225px;
+    height: 45px;
+    cursor: pointer;
+}
+.footere{
+    width: 1520px;
+    display: flex;
+    background-color: #000f35;
+    border: #000f35;
+    height: 600px;
+    justify-content: space-between;
+   
+}
+.footerbox3{
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 56px;
+}
+.footerbox3 ul{
+   
+    padding: 0px 10px;
+ color: #ffff;
+}
+.footerbox3 ul li{
+    list-style: none;
+    color: #ffff;
+}
+.footerbox3 ul li a{
+    color: #ffff;
+    list-style: none;
+    text-decoration: none;
+}
+.footerbox3 label{
+    font-size: 20px;
+}
